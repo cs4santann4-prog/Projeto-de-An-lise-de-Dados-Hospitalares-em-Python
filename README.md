@@ -19,18 +19,9 @@ Projeto de análise de dados desenvolvido para a disciplina de **Tópicos de Big
 ```
 Proj_Seg/
 │
-├── .idea/
-│   ├── inspectionProfiles/
-│   │   ├── profiles_settings
-│   │   └── Project_Default
-│   ├── .gitignore
-│   ├── misc
-│   ├── modules
-│   ├── Proj_Seg.iml
-│   └── Workspace
 ├── patients.csv
-├── Proj_Seg.py
-└── README.md
+├── README.md
+└── Proj_Seg.py 
 ```
 
 ## Como Executar
